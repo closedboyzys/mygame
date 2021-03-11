@@ -1,0 +1,10 @@
+D:\python\dalanqiu\dalanqiu\bin\Debug\dalanqiu.exe.config
+D:\python\dalanqiu\dalanqiu\bin\Debug\dalanqiu.exe
+D:\python\dalanqiu\dalanqiu\bin\Debug\dalanqiu.pdb
+D:\python\dalanqiu\dalanqiu\obj\Debug\dalanqiu.csprojAssemblyReference.cache
+D:\python\dalanqiu\dalanqiu\obj\Debug\dalanqiu.FrmBlock.resources
+D:\python\dalanqiu\dalanqiu\obj\Debug\dalanqiu.Properties.Resources.resources
+D:\python\dalanqiu\dalanqiu\obj\Debug\dalanqiu.csproj.GenerateResource.cache
+D:\python\dalanqiu\dalanqiu\obj\Debug\dalanqiu.csproj.CoreCompileInputs.cache
+D:\python\dalanqiu\dalanqiu\obj\Debug\dalanqiu.exe
+D:\python\dalanqiu\dalanqiu\obj\Debug\dalanqiu.pdb
